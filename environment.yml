@@ -1,0 +1,11 @@
+name: serendipyty_gpu
+dependencies:
+  - python=3.7
+  - pip
+  - pylint
+  - pytest
+  - dask-core
+  - matplotlib
+  - jupyter
+  - pip:
+    - cupy-cuda101
