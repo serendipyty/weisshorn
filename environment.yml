@@ -4,8 +4,10 @@ dependencies:
   - pip
   - pylint
   - pytest
-  - dask-core
+  - dask
   - matplotlib
+  - toml
+  - numba
   - jupyter
   - pip:
     - cupy-cuda101

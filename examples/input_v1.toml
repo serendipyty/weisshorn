@@ -1,0 +1,10 @@
+[general]
+desc = "Questa e' una prova"
+
+[domain]
+dimension = 3
+
+[domain.geometry]
+origin = [0.0, 0.0, 0.0]
+number-of-cells = [2301, 1, 751]
+cell-size = [4.0, 4.0, 4.0]
